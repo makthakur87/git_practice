@@ -1,0 +1,5 @@
+this is a git practice going on...
+understanding git commands
+
+
+i am adding few more lines to ensure it is working properly
